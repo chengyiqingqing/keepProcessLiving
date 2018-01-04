@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec2598fac1d17ce048679d515a83ab5408bf4e48">
+        <dex dex="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_37bfa3cb5f3dd6c9db9691603817a7b6ef8ce062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a1427757ccb7a88b3dcb7a141b360d16c23f1b55\classes.dex" />
+    </item>
+
+</items>
