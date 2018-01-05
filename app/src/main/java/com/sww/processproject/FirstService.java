@@ -1,11 +1,13 @@
 package com.sww.processproject;
 
 import android.app.Notification;
+import android.app.NotificationManager;
 import android.app.Service;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.os.Handler;
 import android.os.IBinder;
 import android.os.RemoteException;
 import android.util.Log;
@@ -97,7 +99,7 @@ public class FirstService extends Service {
         }
     }
 
-    /*public static class  InnerService extends Service{
+    public static class  InnerService extends Service{
         @Override
         public IBinder onBind(Intent intent) {
             return null;
@@ -122,6 +124,6 @@ public class FirstService extends Service {
                 }
             },100);
         }
-    }*/
+    }
 
 }
