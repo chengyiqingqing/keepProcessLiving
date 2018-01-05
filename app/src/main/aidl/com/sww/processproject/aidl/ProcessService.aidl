@@ -1,5 +1,5 @@
 // ProcessService.aidl
-package com.cxmscb.cxm.processproject.aidl;
+package com.sww.processproject.aidl;
 
 // Declare any non-default types here with import statements
 
