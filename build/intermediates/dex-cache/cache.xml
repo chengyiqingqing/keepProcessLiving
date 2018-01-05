@@ -2,22 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\61998e5ab0d728413accd74037ceb43bcf8dd406\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ec2598fac1d17ce048679d515a83ab5408bf4e48">
-        <dex dex="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_37bfa3cb5f3dd6c9db9691603817a7b6ef8ce062\classes.dex" />
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_23527552b688a085535d9377f2823b82d1907113.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\a26366578cc3f421cd5de7ae81fe8776e002f2df\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
-        <dex dex="F:\androidwork\keepProcessLive\MyProcessLive\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a1427757ccb7a88b3dcb7a141b360d16c23f1b55\classes.dex" />
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_beef7543ee1f77816a7d74cae114a9db90a7de97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\c5abd8bcb3c22486785aa9e05e9eae387e2d7f4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_e70224548341d1ef05a9dd759fe7d0669e92fdc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\a2dfd78c023d0dfa53879f4dfacb2fb0ce8b813e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_b4d62964d9cee031e3fed7579a343c76080eabcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\eb7d1a7b9d954fee80619ebcf744de5661b2be5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_739b5a93eb2d3e42fe538f426d11ea1e1525d662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\c557e4f63e0b5174c472bc7380d43912687d6773\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_887ea6d135fbbce4572cdd8cd4c673675db5b5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\391bd9cee62a6a8d8cb98b133b12396013478887\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_7e967bdc887a92657f71a8f08fea5cb3b414ea0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_8fd495a8836fb00640578a4378023325c4e1eaac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_b878b4deabdf1fbca79d360a80e36310fe4449d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shaowenwen\.android\build-cache\981b7bc0a096e9425e1db5a87c6f90f34d6b4eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="E:\gitwork\keepProcessLiving\app\build\intermediates\pre-dexed\debug\classes_80105d15b05f941e27300da2eb3911ec1a5d97c7.jar" />
     </item>
 
 </items>

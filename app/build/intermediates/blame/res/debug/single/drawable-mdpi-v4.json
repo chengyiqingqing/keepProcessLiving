@@ -32,12 +32,12 @@
         "source": "C:\\Users\\shaowenwen\\.android\\build-cache\\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
-        "source": "C:\\Users\\shaowenwen\\.android\\build-cache\\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
         "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\shaowenwen\\.android\\build-cache\\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\shaowenwen\\.android\\build-cache\\586b8aabf76871d4e9b844dcfc16387ac24cc2c2\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "E:\\gitwork\\keepProcessLiving\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",

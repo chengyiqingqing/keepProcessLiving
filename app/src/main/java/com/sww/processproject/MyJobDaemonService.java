@@ -1,4 +1,4 @@
-﻿package com.sww.processproject;
+package com.sww.processproject;
 
 import android.app.ActivityManager;
 import android.app.job.JobInfo;

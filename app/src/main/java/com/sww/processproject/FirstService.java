@@ -1,4 +1,4 @@
-﻿package com.sww.processproject;
+package com.sww.processproject;
 
 import android.app.Notification;
 import android.app.Service;
@@ -10,7 +10,7 @@ import android.os.IBinder;
 import android.os.RemoteException;
 import android.util.Log;
 
-import com.cxmscb.cxm.processproject.aidl.ProcessService;
+import com.sww.processproject.aidl.ProcessService;
 
 import java.util.Timer;
 import java.util.TimerTask;
