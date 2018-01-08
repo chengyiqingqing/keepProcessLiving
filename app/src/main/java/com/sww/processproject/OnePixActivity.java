@@ -28,7 +28,7 @@ public class OnePixActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.d(TAG, "onCreate：一个像素Activity创建");
-        setContentView(R.layout.activity_pix);
+//        setContentView(R.layout.activity_pix);
 
         Window window = getWindow();
         //放在左上角

@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
+import com.sww.processproject.account.SyncService;
+
 public class MainActivity extends AppCompatActivity {
 
     private Context mContext;
@@ -15,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         mContext=MainActivity.this;
 //        startServices();
-        startOnePixActivity();
-//        finish();
+//        startOnePixActivity();
+        startAsynAccount();
     }
 
     private void startServices(){
@@ -31,12 +33,15 @@ public class MainActivity extends AppCompatActivity {
         OnePixActivity.startOnePixActivity(mContext);
     }
 
+    private void startAsynAccount(){
+        //利用帐号同步机制  拉活
+        SyncService.startAccountSync(getApplicationContext());
+    }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
     }
-
 
 
 }
