@@ -1,25 +1,27 @@
-# keepProcessLiving
-android 双进程防杀死，+JobService保活
+# 无人机问题
+操作说明
 
-下面是一些adb命令帮助你验证进程保活；
-以下命令可以帮助你通过查看该应用的进程名及进程数，进程优先级，
-service是否为前台进程等等。
+输入输出用例如下：
 
-
-    adb devices                          查看当前设备。
-    adb shell ps | grep <package name>   查看当前应用的所有进程。可以不打全名。√
-    adb shell cat /proc/<pid>/oom_adj    查看当前进程的优先级。值越大，越容易被杀 √
-    adb shell kill [pid]                 杀死进程id  
-    adb shell dumpsys activity services [<packagename>]  查看正在运行的services  
-    adb shell service list               查看后台services信息
-    adb shell dumpsys notification       获取通知信息。
-    
-   应用管理类
-   
-    adb shell pm list packages -3        -3/qq  查看第三方应用/查看包名带有qq的应用。
-    adb shell pm clear <packagename>     清除apk数据与缓存。
-    
-    
-   当然，你也可以使使用Android devices monitor 和adb plugins 来查看和管理你的进程。
+	请做第一项输入：记录无人机活动信号的文本内容（输入end时，将代表第一项输入结束）
+	plant1 1 1 1
+	plant1 1 1 1 1 2 3
+	plant1 2 3 4 1 1 1
+	plant1 3 4 5
+	plant1 1 1 1 1 2 3
+	end
+	请做第二次输入：（输入exit时，将代表第二项输入结束，退出程序）
+	0	（输入）
+	plant1 0 1 1 1	(输出)
+	1	（输入）
+	plant1 1 2 3 4 （输出）
+	2	（输入）
+	plant1 2 3 4 5 (输出)
+	3 	（输入）
+	error : 3	   (输出)
+	4 	（输入）
+	error : 3	   (输出)
+	5	（输入）	
+	cannot find 5  (输出)
     
 
